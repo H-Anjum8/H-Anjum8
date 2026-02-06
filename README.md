@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+**React Native Developer | Mobile App Development | iOS/Android | JavaScript & Web Developer**
 
-<!--
-**H-Anjum8/H-Anjum8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building responsive, high-performance mobile apps using **React Native** for **iOS/Android**, and web apps using **React.js**.  
 
-Here are some ideas to get you started:
+## Skills
+- **Mobile App Development:** React Native, Redux, React Navigation, Styled Components
+- **Web Development:** React.js, JavaScript (ES6+), HTML5, CSS3, REST API integration
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Xcode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Daily Habit Tracker App:** Cross-platform mobile app for wellness tracking.  
+- **Digital Crop Chemical Recommendation App:** AI-powered crop guidance app for farmers.  
+- **Portfolio Website:** Responsive web app built with React.js.  
+- **React Native Reusable Components:** Collection of reusable UI components.  
+
+## Contact
+📫 You can reach me via [Email] or connect on [LinkedIn URL].
