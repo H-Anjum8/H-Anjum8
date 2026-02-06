@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm H-Anjum👋
 **React Native Developer | Mobile App Development | iOS/Android | JavaScript & Web Developer**
 
 I specialize in building responsive, high-performance mobile apps using **React Native** for **iOS/Android**, and web apps using **React.js**.  
@@ -15,4 +15,4 @@ I specialize in building responsive, high-performance mobile apps using **React 
 - **React Native Reusable Components:** Collection of reusable UI components.  
 
 ## Contact
-📫 You can reach me via [Email] or connect on [LinkedIn URL].
+📫 You can reach me via anumanjum289@gmail.com.
